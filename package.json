@@ -1,0 +1,22 @@
+{
+  "name": "keykoala",
+  "version": "1.0.0",
+  "description": "🐾 KeyKoala – A fun and friendly app that helps kids stay on track with their piano practice through smart monitoring and playful encouragement.",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "expo start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "aws-sdk": "^2.1692.0",
+    "expo": "^53.0.11",
+    "expo-av": "^15.1.6",
+    "node-wav": "^0.0.2",
+    "react": "^19.1.0",
+    "react-native": "^0.79.3"
+  }
+}
